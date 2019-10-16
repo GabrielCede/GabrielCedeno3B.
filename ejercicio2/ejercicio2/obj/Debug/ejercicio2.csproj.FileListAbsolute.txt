@@ -1,0 +1,5 @@
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
