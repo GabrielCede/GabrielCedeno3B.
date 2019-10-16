@@ -1,0 +1,5 @@
+C:\Users\Personal\Desktop\POO EJERCICIOS\Nueva carpeta\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\Personal\Desktop\POO EJERCICIOS\Nueva carpeta\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\Nueva carpeta\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\Personal\Desktop\POO EJERCICIOS\Nueva carpeta\ejercicio5\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\Nueva carpeta\ejercicio5\ejercicio5\obj\Debug\ejercicio5.pdb
