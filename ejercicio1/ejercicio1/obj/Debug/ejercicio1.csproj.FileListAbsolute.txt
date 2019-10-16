@@ -1,0 +1,6 @@
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
