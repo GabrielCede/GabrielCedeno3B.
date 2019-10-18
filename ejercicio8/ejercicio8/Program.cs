@@ -11,10 +11,9 @@ namespace ejercicio8
         static void Main(string[] args)
         {
             //Crear un programa en C# que lea un número entero positivo y que escriba tres columnas. La primera cuenta desde uno hasta el número escrito contando de uno en uno; la segunda columna cuenta de dos en dos y la tercera de tres. 
-
-            int columna1 = 0;
-            int columna2 = 0;
-            int columna3 = 0;
+            var columna1 = 0;
+            var columna2 = 0;
+            var columna3 = 0;
             Console.WriteLine("Ingrese un numero");
             int n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
