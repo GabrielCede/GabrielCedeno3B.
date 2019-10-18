@@ -10,20 +10,22 @@ namespace ejercicio5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese un número para la altura de la pirámide: ");
-            int numero = int.Parse(Console.ReadLine());
-            int j = 0, k = 0;
-            for (int i = 1; i <= numero; i++)
+              int altura = 0;
+
+            Console.WriteLine(" Ingrese el nùmero para la altura de la pirámide:");
+            altura = int.Parse(Console.ReadLine());
+            int A = 0, B = 0;
+            for (int i = 1; i <= altura ; i++)
             {
-                for (j = 1; j <= (numero - i); j++)
+                for (A = 1; A <= (altura - i); A++)
                 {
                     Console.Write(" ");
                 }
-                for (k = 1; k <= i; k++)
+                for (B = 1; B <= i; B++)
                 {
                     Console.Write('*');
                 }
-                for (k = (i - 1); k >= 1; k--)
+                for (B = (i - 1); B >= 1; B--)
                 {
                     Console.Write('*');
                 }
