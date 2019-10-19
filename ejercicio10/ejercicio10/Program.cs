@@ -10,17 +10,17 @@ namespace ejercicio10
     {
         static void Main(string[] args)
         {
-            int opcion = 0;
+            int modo = 0;
             do
             {
 
-                Console.WriteLine("\n Del siguiente menú, elija una opción: ");
+                Console.WriteLine("\n Del siguiente menú, elija el literal deseado: ");
                 Console.WriteLine("1) Salir");
                 Console.WriteLine("2) Sumatorio");
                 Console.WriteLine("3) Factorial");
                 Console.WriteLine(" ");
-                opcion = int.Parse(Console.ReadLine());
-                switch (opcion)
+                modo = int.Parse(Console.ReadLine());
+                switch (modo)
                 {
                     case 1:
                       
@@ -47,7 +47,7 @@ namespace ejercicio10
                         Console.ReadKey();
                         break;
                 }
-            } while (opcion != 1);
+            } while (modo != 1);
 
         }
     }
